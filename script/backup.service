@@ -1,0 +1,5 @@
+[Unit]
+Description=Run backup script
+
+[Service]
+ExecStart=/home/panda/projects/Melda/backup/backup.sh
